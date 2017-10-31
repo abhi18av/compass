@@ -1,0 +1,1 @@
+"com.orientechnologies" % "orientdb-core" % "2.2.29"
