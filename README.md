@@ -2,11 +2,11 @@
 
 FIXME: description
 
-
-OrientDB console v.2.2.26 (build ae9fcb9c075e1d74560a336a96b57d3661234c7b) https://www.orientdb.com
-Type 'help' to display all the supported commands.
+## Pre-requisites
+- OrientDB console v.2.2.29 (build 9914189f972103907c24377a1567897e68642920) 
 Installing extensions for GREMLIN language v.2.6.0
 
+- postgres (PostgreSQL) 10.0
 
 
 
@@ -43,9 +43,3 @@ Copyright © 2017 FIXME
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
 
-
-OrientDB console v.2.2.29 (build 9914189f972103907c24377a1567897e68642920) https://www.orientdb.com
-Type 'help' to display all the supported commands.
-Installing extensions for GREMLIN language v.2.6.0
-
-postgres (PostgreSQL) 10.0
