@@ -1,12 +1,37 @@
 # compass
 
-FIXME: description
+Solving Databases.
+
+## GamePlan
+
+Learn about databases and their lispy layers by translating and exploring the sample databases in each database.
 
 ## Pre-requisites
+
+- **minio** 2017-08-05T00:00:53Z
+
 - **OrientDB** console v.2.2.29
+
+
+
+
+
+- **Neo4j** 3.0.3
 
 - **PostgreSQL** 10.0
 
+- **MongoDB** 3.4.10
+
+- **ElasticSearch** 5.6.3
+
+- **Redis** 4.0.2
+
+
+## Personal databases
+
+- **sqlite3** 3.13.0
+
+- **restic**
 
 
 ## Installation
