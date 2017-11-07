@@ -21,8 +21,9 @@
 
 ;; RELATIONAL 
                 ;; To test how the postgresql database abstraction works
-               [com.layerware/hugsql "0.4.8"]
-               [org.postgresql/postgresql "42.1.4"]
+[honeysql "0.9.1"]
+[nilenso/honeysql-postgres "0.2.3"]
+
  
 ;; KEY-VALUE
 [com.taoensso/carmine "2.16.0"]
