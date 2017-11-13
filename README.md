@@ -1,13 +1,37 @@
 # compass
 
-FIXME: description
+Solving Databases.
+
+## GamePlan
+
+Learn about databases and their lispy layers by translating and exploring the sample databases in each database.
+
+## Pre-requisites
+
+- **minio** 2017-08-05T00:00:53Z
+
+- **OrientDB** console v.2.2.29
 
 
-OrientDB console v.2.2.26 (build ae9fcb9c075e1d74560a336a96b57d3661234c7b) https://www.orientdb.com
-Type 'help' to display all the supported commands.
-Installing extensions for GREMLIN language v.2.6.0
 
 
+
+- **Neo4j** 3.0.3
+
+- **PostgreSQL** 10.0
+
+- **MongoDB** 3.4.10
+
+- **ElasticSearch** 5.6.3
+
+- **Redis** 4.0.2
+
+
+## Personal databases
+
+- **sqlite3** 3.13.0
+
+- **restic**
 
 
 ## Installation
